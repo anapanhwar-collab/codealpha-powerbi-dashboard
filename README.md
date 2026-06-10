@@ -14,7 +14,7 @@ Educational Performance Dashboard
   ## Files Included
   - Power BI Dashboard ( .pbix)
   - Dashboard Screenshot
-##Task 2: Financial Health Dashboard
+ ## Task 2: Financial Health Dashboard
 - Income vs Expense Analysis
 - Profit Calculation
 - Monthly Trends
