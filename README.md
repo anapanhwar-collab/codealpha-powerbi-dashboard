@@ -19,3 +19,9 @@ Educational Performance Dashboard
 - Profit Calculation
 - Monthly Trends
 - Data Visualization in Power BI
+## Task 3: Human Resources Analytics
+- Employee Count Analysis
+- Active vs Left Employees
+- Department-wise Analysis
+- Performance Tracking
+- Satisfaction Analysis
